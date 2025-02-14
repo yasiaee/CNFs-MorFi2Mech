@@ -5,7 +5,7 @@ This is a readme file for this paper:
 
 
 ####   A machine learning approach for the prediction of cellulose nanofibril films’ mechanical properties from suspension morphological data
-Yasaman Asiaee1, Parinaz Rahimzadeh-Bajgiran2, Colleen Walker3, Douglas Bousfield4, Mehdi Tajvidi1 #####
+Yasaman Asiaee1, Parinaz Rahimzadeh-Bajgiran2, Colleen Walker3, Douglas Bousfield4, Mehdi Tajvidi1 
 
 1School of Forest Resources and Advanced Structures and Composites Center, University of Maine, 5755 Nutting Hall, Orono, ME 04469, USA
 2School of Forest Resources, University of Maine, 5755 Nutting Hall, Orono, ME 04469, USA
